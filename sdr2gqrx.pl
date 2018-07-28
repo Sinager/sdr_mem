@@ -6,7 +6,7 @@
  #
  # converts a "frequencies.xml" SDR# memory file into a "bookmarks.csv" readble by GQRX
  # 
- # Copyright 2018 Stefano Sinagra <sinager@tarapippo.net>
+ # Copyright 2018 Stefano Sinagra IZ0MJE <sinager@tarapippo.net>
  # 
  # This program is free software; you can redistribute it and/or modify
  # it under the terms of the GNU General Public License as published by
